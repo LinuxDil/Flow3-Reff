@@ -21,7 +21,7 @@ cfonts.say('NT Exhaust', {
   align: 'center',
   colors: ['cyan', 'black'],
 });
-console.log(centerText("=== Telegram Channel 🚀 : NT Exhaust ( @NTExhaust ) ===\n", "blueBright"));
+console.log(centerText("=== Telegram Channel 🚀 : Airdrop Seeker ( @AirdropSeeker_Official ) ===\n", "blueBright"));
 console.log(chalk.yellow('============ Auto Registration Bot ===========\n'));
 
 function generateRandomHeaders() {
