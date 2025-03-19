@@ -16,7 +16,7 @@ function centerText(text, color = "blueBright") {
   return " ".repeat(padding) + chalk[color](text);
 }
 
-cfonts.say('NT Exhaust', {
+cfonts.say('Airdrop Seeker', {
   font: 'block',
   align: 'center',
   colors: ['cyan', 'black'],
